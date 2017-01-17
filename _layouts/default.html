@@ -1,19 +1,13 @@
-<!DOCTYPE html><html>
-  <head>
-    <meta charset='utf-8'>
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <header>
-    </header>
+{% include top.html %}
 
-    <aside>
-    </aside>
+<body class="wrap">
+  {% include header.html %}
 
-    <article>
-      {{ content }}
-    </article>
+  {{ content }}
 
-    <footer>
-    </footer>
-  </body></html>
+  {% include footer.html %}
+  {% include anchor_links.html %}
+  {% include analytics.html %}
+
+</body>
+</html>
