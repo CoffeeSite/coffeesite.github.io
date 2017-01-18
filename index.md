@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Coffee Site
-tagline: Supporting tagline
+tagline: Think More
 ---
 {% include JB/setup %}
 
