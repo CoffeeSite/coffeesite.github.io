@@ -1,8 +1,8 @@
 ---
 layout: post
-category : linux
+category : web server
 tagline: "Think More"
-tags : [linux, shell]
+tags : [redis, tomcat]
 ---
 {% include JB/setup %}
 

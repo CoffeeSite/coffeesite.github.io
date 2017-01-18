@@ -1,8 +1,8 @@
 ---
 layout: post
-category : linux
+category : spring
 tagline: "Think More"
-tags : [linux, shell]
+tags : [spring]
 ---
 {% include JB/setup %}
 
